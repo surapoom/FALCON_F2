@@ -10,3 +10,4 @@ set DEST_DIR="C:\LazyTrading\GitHub\FALCON_F2"
 
 :: Copy only files with *.mq4 extension
 ROBOCOPY %SOURCE_DIR% %DEST_DIR% *.mq4
+
